@@ -1,0 +1,15 @@
+.navbar img{
+    max-width: 100px;
+}
+
+.navbar-nav {
+    margin-left: auto;
+}
+
+.gallery img{
+    max-width: 100%;
+}
+
+.modal img{
+    max-width: 100%;
+}
